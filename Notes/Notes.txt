@@ -1,0 +1,15 @@
+
+
+Components-
+//header
+//Get Started button
+//App contains main section
+//Top section
+//Middle section
+//Bottom section
+//Footer
+
+CSS-use Sass
+use react-icons
+
+Dropdown menu - use state

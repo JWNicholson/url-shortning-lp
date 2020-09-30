@@ -1,5 +1,5 @@
 *{
-    border:1px solid saddlebrown;
+    // border:1px solid saddlebrown;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -8,6 +8,10 @@
   ul{
     list-style: none;
   }
+
+  a {
+    text-decoration: none;
+  }
   
   body {
     background-color: #f8f8ff;
@@ -15,3 +19,5 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
+
+ 
