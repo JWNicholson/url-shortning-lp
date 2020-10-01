@@ -4,7 +4,7 @@ import React from 'react';
 const SignUpBtn = () => {
     return (
        <>
-        <button className="sign-up-btn">Get Started</button>
+        <button className="sign-up-btn">Sign Up</button>
        </>
     )
 }
