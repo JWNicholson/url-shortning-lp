@@ -1,7 +1,5 @@
 nav.top-nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    
 
     a {
         color:$grayViolet;
@@ -10,6 +8,11 @@ nav.top-nav {
     .logo{
         color:$darkViolet;
         margin-right: 1.2em;
+    }
+
+    .navbar-items {
+        display: flex;
+        justify-content: space-between;
     }
 
     .left-side {
@@ -28,6 +31,8 @@ nav.top-nav {
     .right-side {
         display: flex;
         flex:0 0 190px;
+
+       
         
         .right-side-links {
             display: flex;
@@ -46,10 +51,23 @@ nav.top-nav {
             width:100px;
             padding: 6px;
         }
+
+       
     }
 
+    .menu-icon {
+        color:$grayViolet;
+        font-size: 1.2rem;
+        }
 }
 
+/*media queries*/
+
+@media screen and (min-width: 768px) {
+    div.menu-icon-ctnr {
+      display: none;
+    }
+  }
 
 
 
