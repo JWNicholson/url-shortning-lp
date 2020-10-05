@@ -10,6 +10,6 @@ Components-
 //Footer
 
 CSS-use Sass
-use react-icons
+use unicode icons
 
 Dropdown menu - use state
