@@ -11,5 +11,5 @@ Components-
 
 CSS-use Sass
 use unicode icons
-
+Axios for api request
 Dropdown menu - use state
